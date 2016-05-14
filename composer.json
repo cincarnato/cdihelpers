@@ -4,7 +4,7 @@
     "type":        "library",
     "license":     "WTFPL",
     "keywords": [
-        "entity",
+        "helpers",
         "doctrine",
         "zf2",
         "module",
