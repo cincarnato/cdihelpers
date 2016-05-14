@@ -1,3 +1,3 @@
-Module for modify Doctrine Entitys on web
+Modulo zf2 para helpers reutilizables en paginas web
 
 .
